@@ -1,0 +1,16 @@
+.caja2 {
+   background-color: purple; 
+   padding: 30px 20px 50px 55px;
+   border-top: 10px;
+   border-right: 5px;
+   border-bottom: 10px;
+   border-color: fuchsia;
+   border-style: solid; 
+}
+
+.caja1{
+	border: 2px dashed maroon;
+	padding: 10px 4px;
+	text-align: center;
+	background-color: white;
+}
